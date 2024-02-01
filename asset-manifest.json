@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quadb-challenge/static/css/main.c7ec3132.css",
+    "main.js": "/quadb-challenge/static/js/main.cd4c8b0e.js",
+    "index.html": "/quadb-challenge/index.html",
+    "main.c7ec3132.css.map": "/quadb-challenge/static/css/main.c7ec3132.css.map",
+    "main.cd4c8b0e.js.map": "/quadb-challenge/static/js/main.cd4c8b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.cd4c8b0e.js"
+  ]
+}
